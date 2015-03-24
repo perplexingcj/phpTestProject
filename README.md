@@ -1,2 +1,3 @@
 # phpTestProject
-Test project
+Test project for application
+
